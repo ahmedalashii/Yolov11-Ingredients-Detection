@@ -1,0 +1,4 @@
+val: ../valid/images
+
+nc: 36
+names: ['banana', 'bell pepper', 'bulgur', 'cabbage', 'carrot', 'cheese', 'chicken', 'chickpeas', 'cucumber', 'egg', 'eggplant', 'farfalle pasta', 'fusilli pasta', 'garlic', 'green pepper', 'ground meat', 'ketchup', 'lemon', 'margarine', 'mayonnaise', 'milk', 'mushroom', 'olive', 'olive oil', 'onion', 'parsley', 'potato', 'red lentils', 'rice', 'sausage', 'spaghetti', 'tomato', 'tomato paste', 'turkish dumplings', 'yogurt', 'zucchini']

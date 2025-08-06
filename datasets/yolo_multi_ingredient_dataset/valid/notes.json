@@ -1,0 +1,153 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "banana"
+    },
+    {
+      "id": 1,
+      "name": "bell pepper"
+    },
+    {
+      "id": 2,
+      "name": "bulgur"
+    },
+    {
+      "id": 3,
+      "name": "cabbage"
+    },
+    {
+      "id": 4,
+      "name": "carrot"
+    },
+    {
+      "id": 5,
+      "name": "cheese"
+    },
+    {
+      "id": 6,
+      "name": "chicken"
+    },
+    {
+      "id": 7,
+      "name": "chickpeas"
+    },
+    {
+      "id": 8,
+      "name": "cucumber"
+    },
+    {
+      "id": 9,
+      "name": "egg"
+    },
+    {
+      "id": 10,
+      "name": "eggplant"
+    },
+    {
+      "id": 11,
+      "name": "farfalle pasta"
+    },
+    {
+      "id": 12,
+      "name": "fusilli pasta"
+    },
+    {
+      "id": 13,
+      "name": "garlic"
+    },
+    {
+      "id": 14,
+      "name": "green pepper"
+    },
+    {
+      "id": 15,
+      "name": "ground meat"
+    },
+    {
+      "id": 16,
+      "name": "ketchup"
+    },
+    {
+      "id": 17,
+      "name": "lemon"
+    },
+    {
+      "id": 18,
+      "name": "margarine"
+    },
+    {
+      "id": 19,
+      "name": "mayonnaise"
+    },
+    {
+      "id": 20,
+      "name": "milk"
+    },
+    {
+      "id": 21,
+      "name": "mushroom"
+    },
+    {
+      "id": 22,
+      "name": "olive"
+    },
+    {
+      "id": 23,
+      "name": "olive oil"
+    },
+    {
+      "id": 24,
+      "name": "onion"
+    },
+    {
+      "id": 25,
+      "name": "parsley"
+    },
+    {
+      "id": 26,
+      "name": "potato"
+    },
+    {
+      "id": 27,
+      "name": "red lentils"
+    },
+    {
+      "id": 28,
+      "name": "rice"
+    },
+    {
+      "id": 29,
+      "name": "sausage"
+    },
+    {
+      "id": 30,
+      "name": "spaghetti"
+    },
+    {
+      "id": 31,
+      "name": "tomato"
+    },
+    {
+      "id": 32,
+      "name": "tomato paste"
+    },
+    {
+      "id": 33,
+      "name": "turkish dumplings"
+    },
+    {
+      "id": 34,
+      "name": "yogurt"
+    },
+    {
+      "id": 35,
+      "name": "zucchini"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
