@@ -1,5 +1,5 @@
 
-## 📊 Dataset License
+## Dataset License
 
 The ingredient dataset used is adapted from Y. E., "FOOD INGREDIENTS DETECTION Dataset," Roboflow Universe, Jul. 2024. [Online]. Available: https://universe.roboflow.com/yaman-e/food-ingredients-detection-qfit7. Accessed: Apr. 12, 2025.
 and is licensed under:  
@@ -12,7 +12,8 @@ and is licensed under:
 
 Please give appropriate credit if you use this dataset in your work.
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
+
 Original dataset by Yaman E.
 
 YOLOv11 model by Ultralytics
