@@ -1,7 +1,7 @@
 
 ## Dataset License
 
-The ingredient dataset used is adapted from Y. E., "FOOD INGREDIENTS DETECTION Dataset," Roboflow Universe, Jul. 2024. [Online]. Available: https://universe.roboflow.com/yaman-e/food-ingredients-detection-qfit7. Accessed: Apr. 12, 2025.
+The single-ingredient images dataset used here is adapted from Y. E., "FOOD INGREDIENTS DETECTION Dataset," Roboflow Universe, Jul. 2024. [Online]. Available: https://universe.roboflow.com/yaman-e/food-ingredients-detection-qfit7. Accessed: Apr. 12, 2025.
 and is licensed under:  
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
