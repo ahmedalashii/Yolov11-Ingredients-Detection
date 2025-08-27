@@ -35,5 +35,4 @@ YOLOv11 model by Ultralytics
 Sentence Embeddings by HuggingFace Transformers
 
 
-
 **Note:** The images of the recipes are not included in this repository due to size limitations. Please refer to the original dataset sources for access to the complete image data.
