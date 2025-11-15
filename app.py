@@ -17,7 +17,7 @@ from ultralytics import YOLO
 # --- PATH CONFIG ---
 ROOT_DIR = os.getcwd()
 DATA_YAML_PATH = os.path.join(ROOT_DIR, 'datasets', 'yolo_single_ingredient_dataset', 'data.yaml')
-MODEL_WEIGHTS_PATH = os.path.join('models', 'yolo11s_100_epochs', 'weights', 'best.pt')
+MODEL_WEIGHTS_PATH = os.path.join('models', 'trained_on_single', 'yolo11s_100_epochs', 'weights', 'best.pt')
 RECIPE_CSV = os.path.join(ROOT_DIR, 'food_ingredients_and_recipes_dataset_with_images', 'archive', 'recipes.csv')
 # Download the images from the dataset in this link and place it in the specified folder so you can have the corresponding images for the recipes.
 IMAGE_FOLDER = os.path.join(ROOT_DIR, 'food_ingredients_and_recipes_dataset_with_images', 'archive', 'images')
